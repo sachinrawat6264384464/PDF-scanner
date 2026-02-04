@@ -93,7 +93,7 @@ Extract student details from the text below.
 
 Return ONLY JSON in this exact format:
 [
-  {{"roll": "...", "name": "...", "status": "..."}}
+  {{"ROLLMENT/ROLL": "...", "NAME": "...", "RESULT": "..."}}
 ]
 
 Text:
